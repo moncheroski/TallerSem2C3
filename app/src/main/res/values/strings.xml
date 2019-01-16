@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taller2 sem2</string>
+    <string name="txNombre">Nombre</string>
+    <string name="txTel">Telefono</string>
+    <string name="txFecha">DD/MM/AA</string>
+    <string name="txEmail">Email</string>
+    <string name="txDesc">Descripcion</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnRegresar">Editar Datos</string>
+
+</resources>
